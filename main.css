@@ -1,10 +1,10 @@
- html {
-      background:#018DED url(http:
-      background-size:cover;
-      font-family:'helvetica neue';
-      text-align: center;
-      font-size: 10px;
-    }
+html {
+    background: #018DED;
+    background-size: cover;
+    font-family: Arial;
+    text-align: center;
+    font-size: 10px;
+}
 
     body {
       margin: 0;
